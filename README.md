@@ -9,7 +9,7 @@
 
 ## Horário das Aulas
 
-Sexta - 17h30 às 19h50 - LEC 03
+Sexta - 17h10 às 18h50 - LEC 03
 
 Sexta - 9h30 às 11h10 - LEC 03
 
@@ -18,14 +18,6 @@ Sexta - 9h30 às 11h10 - LEC 03
 ![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Não haverá aula - 30/09/2024
 
 ![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Não haverá aula - 03/10/2024
-
-![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Entrega da Trabalho 1 (Lista 1 + Kahoot)
-
-![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Entrega Trabalho 2
-
-![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Entrega Trabalho 3
-
-![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Entrega Trabalho 4
 
 ## Ferramentas utilizada na matéria
 
@@ -45,6 +37,6 @@ Sexta - 9h30 às 11h10 - LEC 03
 
 ![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Aulas
 
-![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Trabalhos
+![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Jogo
 
 ![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Material de Apoio
