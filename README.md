@@ -43,8 +43,8 @@ Sexta - 9h30 às 11h10 - LEC 03
 
 ![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Plano de Ensino
 
-![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) [Aulas](https://github.com/brunamota/ComputacaoGrafica/blob/main/Aulas.md)
+![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Aulas
 
-![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) [Trabalhos](https://github.com/brunamota/ComputacaoGrafica/blob/main/Trabalhos.md)
+![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Trabalhos
 
 ![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Material de Apoio
