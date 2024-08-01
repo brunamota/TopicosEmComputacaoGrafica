@@ -9,9 +9,9 @@
 
 ## Horário das Aulas
 
-Sexta - 17h10 às 18h50 - LEC 03
+Segunda - 17h10 às 18h50 - LEC 03
 
-Sexta - 9h30 às 11h10 - LEC 03
+Quinta - 13h30 às 15h10 - LEC 03
 
 ## Datas Importantes
 
