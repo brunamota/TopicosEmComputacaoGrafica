@@ -1,5 +1,5 @@
 <div align="center">
 
-![cabecalhoGitDK](https://github.com/user-attachments/assets/3ff501a1-f1e0-44c8-bdc2-4d234af9ad56)
+![cabecalhoGitSonix](https://github.com/user-attachments/assets/3284e31b-dc72-477c-8510-dd63e9701b9d)
 
 </div>
