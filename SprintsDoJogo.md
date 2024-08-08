@@ -4,10 +4,10 @@
 
 </div>
 
-1ª Sprint – Pitch
+![iconGitPeixe](https://github.com/user-attachments/assets/d94c79c6-7c20-4846-9308-d948225e865a) 1ª Sprint – Pitch
 
-[2ª Sprint – Game Design Document](https://docs.google.com/document/d/1j4imPPgmDnALEL9uIWQlJ7oOBYEhLgiGjjSTjkrmLXE/edit)
+![iconGitPeixe](https://github.com/user-attachments/assets/d94c79c6-7c20-4846-9308-d948225e865a) [2ª Sprint – Game Design Document](https://docs.google.com/document/d/1j4imPPgmDnALEL9uIWQlJ7oOBYEhLgiGjjSTjkrmLXE/edit)
 
-3ª Sprint – CheckPoint
+![iconGitPeixe](https://github.com/user-attachments/assets/d94c79c6-7c20-4846-9308-d948225e865a) 3ª Sprint – CheckPoint
 
-4ª Sprint – Entrega do Jogo
+![iconGitPeixe](https://github.com/user-attachments/assets/d94c79c6-7c20-4846-9308-d948225e865a) 4ª Sprint – Entrega do Jogo
