@@ -23,9 +23,9 @@ Quinta - 13h30 às 15h10 - LEC 03
 
 ![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Avaliação Formativa 2 - 07/10/2024
 
-![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede)Avaliação Formativa 3 - 24/10/2024
+![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Avaliação Formativa 3 - 24/10/2024
 
-![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede)Avaliação Formativa 4 - 09/12/2024
+![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Avaliação Formativa 4 - 09/12/2024
 
 ## Ferramentas utilizada na matéria
 
