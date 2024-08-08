@@ -37,6 +37,6 @@ Quinta - 13h30 às 15h10 - LEC 03
 
 ![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) [Aulas](https://github.com/brunamota/TopicosEmComputacaoGrafica/blob/main/Aulas.md)
 
-![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Jogo
+![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) [Jogo](https://github.com/brunamota/TopicosEmComputacaoGrafica/blob/main/SprintsDoJogo.md)
 
 ![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Material de Apoio
