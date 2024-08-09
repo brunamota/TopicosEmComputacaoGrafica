@@ -41,7 +41,8 @@ Quinta - 13h30 às 15h10 - LEC 03
 
 ## Documentos da Disciplina
 
-![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) Plano de Ensino
+![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) [Plano de Ensino](https://github.com/user-attachments/files/16566163/Plano.de.Ensino.TCG.-.02_2024.pdf)
+
 
 ![iconGitMoeda](https://github.com/user-attachments/assets/6dc8dbe4-a3b6-43f9-ad7c-0b0922ae5ede) [Aulas](https://github.com/brunamota/TopicosEmComputacaoGrafica/blob/main/Aulas.md)
 
