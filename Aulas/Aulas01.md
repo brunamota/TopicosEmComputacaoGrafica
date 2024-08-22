@@ -1,8 +1,5 @@
 # Aula 1 - História e Panorama Atual dos Jogos Digitais
 
-Slide usado em sala: [Aula 01: História e Panorama Atual dos Jogos Digitais.pdf](https://github.com/user-attachments/files/16702997/Aula.01_.Historia.e.Panorama.Atual.dos.Jogos.Digitais.pdf)
-
-
 ## :video_game: Introdução:
 
 - Um jogo pode ser qualquer tipo de competição onde regras são feitas ou criadas num ambiente restrito ou até mesmo de imediato, diferentes do esporte, cujas regras são universais.
@@ -104,3 +101,5 @@ Slide usado em sala: [Aula 01: História e Panorama Atual dos Jogos Digitais.pdf
 :space_invader: [Documentário GDLK](https://www.netflix.com/search?q=gdlk&jbv=81019087)
 
 :space_invader: [E.T. - O Extraterrestre](https://www.primevideo.com/dp/amzn1.dv.gti.86ac0f2e-2364-8e52-c91c-ed6ae11922b3?autoplay=0&ref_=atv_cf_strg_wb)
+
+Slide usado em sala: [Aula 01: História e Panorama Atual dos Jogos Digitais.pdf](https://github.com/user-attachments/files/16702997/Aula.01_.Historia.e.Panorama.Atual.dos.Jogos.Digitais.pdf)
