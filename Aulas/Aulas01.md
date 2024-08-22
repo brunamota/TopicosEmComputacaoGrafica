@@ -51,24 +51,43 @@
 ## :video_game: Cenário Atual dos Jogos Digitais
 
 1. Principais plataformas e dispositivos de jogos:
+   
   a. Consoles de última geração (PlayStation 5, Xbox Series X|S, Nintendo Switch).
+  
   b. Computadores pessoais e laptops.
+  
   c. Dispositivos móveis (smartphones e tablets).
+  
   d. Plataformas de jogos em nuvem (Google Stadia, NVIDIA GeForce NOW).
-6. Principais gêneros e tendências:
+  
+2. Principais gêneros e tendências:
+   
   a. Jogos AAA (blockbusters) com alto orçamento e produção.
+  
   b. Jogos independentes (Indies) com abordagens criativas e inovadoras.
+  
   c. Jogos online e em serviço (games as a service).
+  
   d. Jogos móveis e jogos casuais.
+  
   e. Realidade virtual (VR) e realidade aumentada (AR).
-12. Impacto cultural e social:
+  
+3. Impacto cultural e social:
+    
   a. Esportes eletrônicos (eSports) e competições profissionais.
+  
   b. Jogos como formas de entretenimento, arte e expressão.
+  
   c. Jogos como ferramenta de educação, terapia e desenvolvimento pessoal.
-16. Desafios e oportunidades:
+  
+4. Desafios e oportunidades:
+    
   a. Acessibilidade e inclusão nos jogos.
+  
   b. Sustentabilidade e responsabilidade social na indústria.
+  
   c. Inovação tecnológica e novas experiências de jogo.
+  
   d. Regulamentação e segurança online.
 
 ## :video_game: Conclusão:
