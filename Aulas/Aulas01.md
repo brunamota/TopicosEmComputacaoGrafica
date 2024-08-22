@@ -1,5 +1,8 @@
 # Aula 1 - História e Panorama Atual dos Jogos Digitais
 
+Slide usado em sala: [Aula 01: História e Panorama Atual dos Jogos Digitais.pdf](https://github.com/user-attachments/files/16702997/Aula.01_.Historia.e.Panorama.Atual.dos.Jogos.Digitais.pdf)
+
+
 ## :video_game: Introdução:
 
 - Um jogo pode ser qualquer tipo de competição onde regras são feitas ou criadas num ambiente restrito ou até mesmo de imediato, diferentes do esporte, cujas regras são universais.
