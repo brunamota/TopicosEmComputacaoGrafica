@@ -40,7 +40,7 @@
      
      c) Crescimento da indústria de jogos digitais e surgimento de grandes desenvolvedoras e publicadoras.
      
-  11. A era moderna e a diversificação dos jogos:
+  6. A era moderna e a diversificação dos jogos:
 
       a) Consoles de nova geração, como PlayStation 2, Xbox, GameCube.
 
@@ -52,43 +52,43 @@
 
 1. Principais plataformas e dispositivos de jogos:
    
-    a. Consoles de última geração (PlayStation 5, Xbox Series X|S, Nintendo Switch).
+    a) Consoles de última geração (PlayStation 5, Xbox Series X|S, Nintendo Switch).
     
-    b. Computadores pessoais e laptops.
+    b) Computadores pessoais e laptops.
     
-    c. Dispositivos móveis (smartphones e tablets).
+    c) Dispositivos móveis (smartphones e tablets).
   
-    d. Plataformas de jogos em nuvem (Google Stadia, NVIDIA GeForce NOW).
+    d) Plataformas de jogos em nuvem (Google Stadia, NVIDIA GeForce NOW).
   
 2. Principais gêneros e tendências:
    
-    a. Jogos AAA (blockbusters) com alto orçamento e produção.
+    a) Jogos AAA (blockbusters) com alto orçamento e produção.
     
-    b. Jogos independentes (Indies) com abordagens criativas e inovadoras.
+    b) Jogos independentes (Indies) com abordagens criativas e inovadoras.
     
-    c. Jogos online e em serviço (games as a service).
+    c) Jogos online e em serviço (games as a service).
     
-    d. Jogos móveis e jogos casuais.
+    d) Jogos móveis e jogos casuais.
     
-    e. Realidade virtual (VR) e realidade aumentada (AR).
+    e) Realidade virtual (VR) e realidade aumentada (AR).
   
 3. Impacto cultural e social:
     
-    a. Esportes eletrônicos (eSports) e competições profissionais.
+    a) Esportes eletrônicos (eSports) e competições profissionais.
     
-    b. Jogos como formas de entretenimento, arte e expressão.
+    b) Jogos como formas de entretenimento, arte e expressão.
     
-    c. Jogos como ferramenta de educação, terapia e desenvolvimento pessoal.
+    c) Jogos como ferramenta de educação, terapia e desenvolvimento pessoal.
   
 4. Desafios e oportunidades:
     
-    a. Acessibilidade e inclusão nos jogos.
+    a) Acessibilidade e inclusão nos jogos.
     
-    b. Sustentabilidade e responsabilidade social na indústria.
+    b) Sustentabilidade e responsabilidade social na indústria.
     
-    c. Inovação tecnológica e novas experiências de jogo.
+    c) Inovação tecnológica e novas experiências de jogo.
     
-    d. Regulamentação e segurança online.
+    d) Regulamentação e segurança online.
 
 ## :video_game: Conclusão:
 
