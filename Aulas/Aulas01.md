@@ -11,24 +11,43 @@
 
 ### Histórico dos Jogos Digitais
   1. Início dos jogos digitais:
+     
       a) Primeiros experimentos e jogos primitivos na década de 1940 e 1950.
+     
       b) Aparecimento dos primeiros jogos eletrônicos nos anos 1960 e 1970.
+     
       c) Surgimento dos primeiros consoles de jogos domésticos, como o Magnavox Odyssey.
-  2. A era dos arcades e o boom dos anos 1980:
+     
+  3. A era dos arcades e o boom dos anos 1980:
+     
       a) Jogos de arcade populares, como Pong, Pac-Man, Donkey Kong, Space Invaders.
+     
       b) Consoles de jogos domésticos, como Atari, Intellivision e ColecoVision.
+     
       c) Surgimento dos primeiros jogos de computador pessoal, como Adventure e Zork.
-  3. A evolução dos consoles e computadores pessoais:
+     
+  4. A evolução dos consoles e computadores pessoais:
+     
      a. Popularização dos consoles de 8 bits, como Nintendo Entertainment System (NES) e Sega Master System.
+     
      b. Evolução dos computadores pessoais e surgimento de jogos com gráficos mais avançados.
+     
      c. Lançamento de consoles de 16 bits, como Super Nintendo e Sega Genesis.
-  7. A era da 3D e a consolidação da indústria:
+     
+  5. A era da 3D e a consolidação da indústria:
+     
      a. Consoles de 32 e 64 bits, como PlayStation, Nintendo 64 e Sega Saturn.
+     
      b. Aprimoramento dos gráficos 3D e jogos com mundos tridimensionais.
+     
      c. Crescimento da indústria de jogos digitais e surgimento de grandes desenvolvedoras e publicadoras.
+     
   11. A era moderna e a diversificação dos jogos:
+
      a. Consoles de nova geração, como PlayStation 2, Xbox, GameCube.
+
      b. Ascensão dos jogos online, jogos móveis e jogos independentes.
+     
      c. Evolução tecnológica e gráfica, com jogos cada vez mais realistas e imersivos.
 
 ### :video_game: Cenário Atual dos Jogos Digitais
