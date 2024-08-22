@@ -102,4 +102,4 @@
 
 :space_invader: [E.T. - O Extraterrestre](https://www.primevideo.com/dp/amzn1.dv.gti.86ac0f2e-2364-8e52-c91c-ed6ae11922b3?autoplay=0&ref_=atv_cf_strg_wb)
 
-Slide usado em sala: [Aula 01: História e Panorama Atual dos Jogos Digitais.pdf](https://github.com/user-attachments/files/16702997/Aula.01_.Historia.e.Panorama.Atual.dos.Jogos.Digitais.pdf)
+:space_invader: [Aula 01: História e Panorama Atual dos Jogos Digitais.pdf](https://github.com/user-attachments/files/16702997/Aula.01_.Historia.e.Panorama.Atual.dos.Jogos.Digitais.pdf)
