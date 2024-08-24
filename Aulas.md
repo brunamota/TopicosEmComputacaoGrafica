@@ -6,4 +6,5 @@
 
 
 ![iconGitFlor](https://github.com/user-attachments/assets/04e7d657-05ab-40b3-b227-b166427726aa) [Aula 1 - História e Panorama Atual dos Jogos Digitais](https://github.com/brunamota/TopicosEmComputacaoGrafica/blob/main/Aulas/Aulas01.md)
+
 ![iconGitFlor](https://github.com/user-attachments/assets/04e7d657-05ab-40b3-b227-b166427726aa) [Aula 2 - Classificação Dos Jogos Digitais] 
