@@ -5,7 +5,7 @@
 
 </div>
 
-![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) Artes para jogos de graça
+### ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) Artes para jogos de graça
 
   - [Unity Store](https://assetstore.unity.com/)
   - [Kenney](https://kenney.nl/assets)
