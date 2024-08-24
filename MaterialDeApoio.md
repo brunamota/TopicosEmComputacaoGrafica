@@ -21,7 +21,7 @@
   - [Godot](https://godotengine.org/)
   - [Unity](https://unity.com/pt)
 
-Vídeos auxiliares
+![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) Vídeos auxiliares
   - https://www.youtube.com/@Brackeys
   - https://www.youtube.com/@ShapedByRainStudios
   - https://www.youtube.com/watch?v=Bt6rZWjapIk&list=PLfhbBaEcybmh4ioj6G3yyeDGM6N_2GAX1
