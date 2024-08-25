@@ -39,6 +39,8 @@
 
   ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) https://www.youtube.com/watch?v=Bt6rZWjapIk&list=PLfhbBaEcybmh4ioj6G3yyeDGM6N_2GAX1
 
+  ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) https://www.youtube.com/@CocoCode/playlists
+
 ## :gem: Documentários/Filmes
 
   ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) [Documentário GDLK](https://www.netflix.com/search?q=gdlk&jbv=81019087)
