@@ -45,9 +45,9 @@
   
   ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) [@marcosschultzunity](https://www.youtube.com/@marcosschultzunity/videos)
 
-  ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) [Pixel Art Speed Paintings and Tutorials](https://www.youtube.com/watch?v=Bt6rZWjapIk&list=PLfhbBaEcybmh4ioj6G3yyeDGM6N_2GAX1)
-
   ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) [@CocoCode](https://www.youtube.com/@CocoCode/playlists)
+  
+  ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) [Pixel Art Speed Paintings and Tutorials](https://www.youtube.com/watch?v=Bt6rZWjapIk&list=PLfhbBaEcybmh4ioj6G3yyeDGM6N_2GAX1)
 
 ## :gem: Documentários/Filmes
 
