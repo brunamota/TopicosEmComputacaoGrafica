@@ -44,4 +44,5 @@
   ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) [Documentário GDLK](https://www.netflix.com/search?q=gdlk&jbv=81019087)
   
   ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) [E.T. - O Extraterrestre](https://www.primevideo.com/dp/amzn1.dv.gti.86ac0f2e-2364-8e52-c91c-ed6ae11922b3?autoplay=0&ref_=atv_cf_strg_wb)
-    
+  
+  ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) [Tretis](https://tv.apple.com/br/movie/tetris/umc.cmc.4evmgcam356pzgxs2l7a18d7b?action=play)
