@@ -5,6 +5,14 @@
 
 </div>
 
+## :gem: Organizadores de GDD e GDC
+
+  ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) [Nuclino](https://www.nuclino.com/articles/game-design-document-template)
+
+  ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) [Milnote](https://milanote.com/templates/game-design/game-design-document)
+  
+  ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) [Modelo Game Design Canva no Figma](https://www.figma.com/community/file/1013755687431791048/game-design-canvas)
+
 ## :gem: Artes para jogos de graça
 
   ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) [Unity Store](https://assetstore.unity.com/)
