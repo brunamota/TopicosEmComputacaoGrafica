@@ -88,3 +88,7 @@ Essa etapa serve para fazer um brainstorming e desenvolver os conceitos (high co
 O desenvolvimento de jogos digitais requer uma equipe diversificada e altamente especializada.
 A estrutura organizacional e a divisão de responsabilidades são essenciais para o sucesso do projeto.
 A colaboração e integração entre as diferentes equipes é fundamental para entregar um jogo de qualidade.
+
+# Sugestões
+
+💎 [Aula 02 - Estruturas de uma equipe e Gênero de jogos.pdf](https://github.com/user-attachments/files/16753498/Aula.02.-.Estruturas.de.uma.equipe.e.Genero.de.jogos.pdf)
