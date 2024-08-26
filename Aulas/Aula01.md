@@ -96,7 +96,7 @@
 - O cenário atual é diversificado e em constante evolução, com novas plataformas, gêneros e tendências emergindo.
 - Os jogos digitais continuam a desempenhar um papel relevante na sociedade, apresentando desafios e oportunidades a serem enfrentados.
 
-## :video_game: Sugestoês:
+## :video_game: Sugestões:
 
 :gem: [Documentário GDLK](https://www.netflix.com/search?q=gdlk&jbv=81019087)
 
