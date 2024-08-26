@@ -1,4 +1,4 @@
-# A Estrutura da Equipe de Desenvolvimento de Jogos Digitais
+# Aula 02 - A Estrutura da Equipe de Desenvolvimento de Jogos Digitais
 
 ## 🎮 Introdução
 
