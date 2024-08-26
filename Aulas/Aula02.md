@@ -8,8 +8,8 @@ Desenvolvimento de jogos digitais é um processo complexo e colaborativo. Difere
 
 ### Estrutura Organizacional
 1. Liderança e Gestão (Líder do time)
-2. 
-a. Diretor de Jogos: Estabelecer a visão e direção do projeto
+   
+  a. Diretor de Jogos: Estabelecer a visão e direção do projeto
 
   c. Produtor: Estabelecer a visão e direção do projeto
   
