@@ -9,18 +9,31 @@ Desenvolvimento de jogos digitais é um processo complexo e colaborativo. Difere
 ### Estrutura Organizacional
 1. Liderança e Gestão (Líder do time)
   b. Diretor de Jogos: Estabelecer a visão e direção do projeto
+
   c. Produtor: Estabelecer a visão e direção do projeto
+  
   d. Gerente de Projeto: Comunicação efetiva entre as equipes
+  
 2. Equipe de Criação
+
   a. Designers de Jogos: Concepção do design de jogabilidade e mecânicas
+  
   b. Roteiristas: Desenvolvimento da história, personagens e narrativa
+  
   c. Artistas: Criação de arte, ambientação e efeitos visuais
+  
 3. Equipe de Programação 
+
   a. Programadores de Jogos (Programmers): Implementar a lógica e funcionalidade do jogo
+  
   e. Engenheiros de Áudio (Audio Engineers): Integrar os elementos de áudio e visuais
+  
 4. Equipe de Suporte
+
   a. Testadores (Testers): Realizar testes abrangentes e reportar bugs
+  
   b. Gerentes de Comunidade (Community Managers): Engajar com a comunidade de jogadores
+  
   c. Especialistas em Marketing (Marketing Specialists): Planejar e executar estratégias de marketing
 
 ## 🎮 Etapas de um game
