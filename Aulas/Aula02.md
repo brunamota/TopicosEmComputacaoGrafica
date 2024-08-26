@@ -29,13 +29,10 @@ Desenvolvimento de jogos digitais é um processo complexo e colaborativo. Difere
   
   - Engenheiros de Áudio (Audio Engineers): Integrar os elementos de áudio e visuais
   
-4. Equipe de Suporte
-
-  a. Testadores (Testers): Realizar testes abrangentes e reportar bugs
-  
-  b. Gerentes de Comunidade (Community Managers): Engajar com a comunidade de jogadores
-  
-  c. Especialistas em Marketing (Marketing Specialists): Planejar e executar estratégias de marketing
+- Equipe de Suporte
+   - Testadores (Testers): Realizar testes abrangentes e reportar bugs
+   - Gerentes de Comunidade (Community Managers): Engajar com a comunidade de jogadores
+   - Especialistas em Marketing (Marketing Specialists): Planejar e executar estratégias de marketing
 
 ## 🎮 Etapas de um game
 
