@@ -7,27 +7,27 @@ Desenvolvimento de jogos digitais é um processo complexo e colaborativo. Difere
 ## 🎮 Principais Responsabilidades e Tarefas
 
 ### Estrutura Organizacional
-1. Liderança e Gestão (Líder do time)
+- Liderança e Gestão (Líder do time)
    
-  a. Diretor de Jogos: Estabelecer a visão e direção do projeto
+  - Diretor de Jogos: Estabelecer a visão e direção do projeto
 
-  c. Produtor: Estabelecer a visão e direção do projeto
+  - Produtor: Estabelecer a visão e direção do projeto
   
-  d. Gerente de Projeto: Comunicação efetiva entre as equipes
+  - Gerente de Projeto: Comunicação efetiva entre as equipes
   
-2. Equipe de Criação
+- Equipe de Criação
 
-  a. Designers de Jogos: Concepção do design de jogabilidade e mecânicas
+  - Designers de Jogos: Concepção do design de jogabilidade e mecânicas
   
-  b. Roteiristas: Desenvolvimento da história, personagens e narrativa
+  - Roteiristas: Desenvolvimento da história, personagens e narrativa
   
-  c. Artistas: Criação de arte, ambientação e efeitos visuais
+  - Artistas: Criação de arte, ambientação e efeitos visuais
   
-3. Equipe de Programação 
+- Equipe de Programação 
 
-  a. Programadores de Jogos (Programmers): Implementar a lógica e funcionalidade do jogo
+  - Programadores de Jogos (Programmers): Implementar a lógica e funcionalidade do jogo
   
-  e. Engenheiros de Áudio (Audio Engineers): Integrar os elementos de áudio e visuais
+  - Engenheiros de Áudio (Audio Engineers): Integrar os elementos de áudio e visuais
   
 4. Equipe de Suporte
 
