@@ -1,4 +1,4 @@
-# Aula 03 - Explorando os Gêneros de Jogos Digitais
+# Aula 02 - Explorando os Gêneros de Jogos Digitais
 
 ## 🎮 Introdução
 
