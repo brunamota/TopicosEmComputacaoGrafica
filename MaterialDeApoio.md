@@ -60,4 +60,5 @@
 ## Página do jogo
 
 ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) [Usando figma e site](https://www.youtube.com/watch?v=qh9XFgpjfkA)
+
 ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) [Usando itch.io e site](https://www.youtube.com/watch?v=1Hb3hiuKSMo)
