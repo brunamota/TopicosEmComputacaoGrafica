@@ -12,7 +12,7 @@
 - **Simuladores de Treinamento:** "Flight Simulator", simuladores de cirurgia.
 - **Jogos de Conscientização:** "Darfur is Dying", que aborda questões sociais e humanitárias.
 
-### Aplicações dos Jogos Sérios
+### 👾 Aplicações dos Jogos Sérios
 
 - **Educação:** Ensino de disciplinas acadêmicas, habilidades sociais e emocionais.
 - **Treinamento Profissional:** Preparação de funcionários em ambientes de trabalho específicos.
