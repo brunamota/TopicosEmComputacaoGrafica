@@ -36,7 +36,7 @@
 - **Parcerias com Universidades:** Projetos de pesquisa em conjunto com instituições acadêmicas.
 - **Colaboração com Indústrias:** Desenvolvimento de soluções aplicadas em setores como educação, saúde e treinamento.
   
-## Conclusão
+## 📌 Conclusão
 
 - **Jogos Sérios e Pesquisa:** Ambas as áreas são cruciais para o avanço dos jogos digitais, proporcionando não apenas entretenimento, mas também aprendizado e inovação.
 - **Futuro dos Jogos:** A intersecção entre jogos sérios e a pesquisa em inovação promete criar experiências cada vez mais impactantes e relevantes para a sociedade.
