@@ -2,7 +2,7 @@
 
 ## 🧩 Jogos Sérios
 - Jogos Sérios vão além do entretenimento e são utilizados para fins educativos, de treinamento, simulação ou conscientização.
-- **Objetivos Educacionais:** Focados em ensinar ou treinar o jogador em uma habilidade específica.
+- **Objetivos:** Focados em ensinar ou treinar o jogador em uma habilidade específica.
 - **Mecânicas de Jogo:** Utilizam elementos de design de jogos tradicionais para engajar os jogadores.
 - **Feedback Imediato:** Proporcionam retorno instantâneo sobre o desempenho, reforçando o aprendizado.
   
