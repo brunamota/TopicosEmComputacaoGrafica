@@ -5,18 +5,18 @@
 - **Objetivos:** Focados em ensinar ou treinar o jogador em uma habilidade específica.
 - **Mecânicas de Jogo:** Utilizam elementos de design de jogos tradicionais para engajar os jogadores.
 - **Feedback Imediato:** Proporcionam retorno instantâneo sobre o desempenho, reforçando o aprendizado.
-  
-### 🕹️ Exemplos de Jogos Sérios
-
-- **Jogos Educativos:** "Minecraft: Education Edition", "Kahoot!"
-- **Simuladores de Treinamento:** "Flight Simulator", simuladores de cirurgia.
-- **Jogos de Conscientização:** "Darfur is Dying", que aborda questões sociais e humanitárias.
 
 ### 👾 Aplicações dos Jogos Sérios
 
 - **Educação:** Ensino de disciplinas acadêmicas, habilidades sociais e emocionais.
 - **Treinamento Profissional:** Preparação de funcionários em ambientes de trabalho específicos.
 - **Saúde:** Reabilitação e conscientização sobre saúde pública.
+
+### 🕹️ Exemplos de Jogos Sérios
+
+- **Jogos Educativos:** "Minecraft: Education Edition", "Kahoot!"
+- **Simuladores de Treinamento:** "Flight Simulator", simuladores de cirurgia.
+- **Jogos de Conscientização:** "Darfur is Dying", que aborda questões sociais e humanitárias.
 
 ## 🔍 Pesquisa e Inovação em Jogos Digitais
 
