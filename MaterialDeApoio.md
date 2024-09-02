@@ -51,8 +51,7 @@
 
 ## 💎 Apresentação
 
-  ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) https://slidesgo.com/
-
+  ![iconGitDiamante](https://github.com/user-attachments/assets/0600bada-db2a-4577-8310-1a1ff3424ffb) [Template de Slide](https://slidesgo.com/)
 
 ## :gem: Documentários/Filmes
 
