@@ -40,8 +40,3 @@
 
 - **Jogos Sérios e Pesquisa:** Ambas as áreas são cruciais para o avanço dos jogos digitais, proporcionando não apenas entretenimento, mas também aprendizado e inovação.
 - **Futuro dos Jogos:** A intersecção entre jogos sérios e a pesquisa em inovação promete criar experiências cada vez mais impactantes e relevantes para a sociedade.
-
-## Discussão
-
-- Como os jogos sérios podem ser usados em sua área de interesse?
-- Quais inovações você acredita que moldarão o futuro dos jogos digitais?
