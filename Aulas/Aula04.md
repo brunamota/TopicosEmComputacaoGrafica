@@ -1,4 +1,4 @@
-# 🎮 Aula 4 - Jogos Sérios e a Pesquisa e Inovação em Jogos Digitais
+# 🎮 Aula 4 - Jogos Sério, Pesquisa e Inovação em Jogos Digitais
 
 ## 🧩 Jogos Sérios
 - Jogos Sérios vão além do entretenimento e são utilizados para fins educativos, de treinamento, simulação ou conscientização.
