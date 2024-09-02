@@ -9,3 +9,5 @@
 ![iconGitFlor](https://github.com/user-attachments/assets/04e7d657-05ab-40b3-b227-b166427726aa) [Aula 02 - A Estrutura da Equipe de Desenvolvimento de Jogos Digitais](https://github.com/brunamota/TopicosEmComputacaoGrafica/blob/main/Aulas/Aula02.md)
 
 ![iconGitFlor](https://github.com/user-attachments/assets/04e7d657-05ab-40b3-b227-b166427726aa) [Aula 03 - Explorando os Gêneros de Jogos Digitais](https://github.com/brunamota/TopicosEmComputacaoGrafica/blob/main/Aulas/Aula03.md)
+
+![iconGitFlor](https://github.com/user-attachments/assets/04e7d657-05ab-40b3-b227-b166427726aa) [Aula 4 - Jogos Sérios e a Pesquisa e Inovação em Jogos Digitais](https://github.com/brunamota/TopicosEmComputacaoGrafica/blob/main/Aulas/Aula04.md)
