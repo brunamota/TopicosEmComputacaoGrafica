@@ -2,6 +2,29 @@
 
 ## :gear: O que é um Motor de Jogo?
 Um motor de jogo é um conjunto de ferramentas e bibliotecas que facilita o desenvolvimento de jogos. Ele fornece as funcionalidades básicas para criar gráficos, física, som, entrada de usuário, e muito mais.
+
+### III. Exemplos de Motores de Jogos
+- Unity
+  - Um dos motores de jogo mais populares.
+  - Suporte a 2D e 3D, com uma vasta biblioteca de ativos.
+  - Linguagens de script: C#.
+- Unreal Engine
+  - Conhecido por seus gráficos de alta qualidade.
+  - Usado em jogos AAA e desenvolvimento de simulações.
+  - Linguagens de script: C++ e Blueprints (sistema visual).
+- Godot
+  - Um motor open-source que é leve e flexível.
+  - Suporta desenvolvimento 2D e 3D.
+  - Linguagens de script: GDScript, C#, VisualScript.
+- CryEngine
+  - Focado em gráficos realistas e ambientes de mundo aberto.
+  - Utilizado em jogos como "Far Cry" e "Crysis".
+  - Linguagens de script: C++ e CryScript.
+- GameMaker Studio
+  - Ideal para desenvolvimento de jogos 2D.
+  - Possui uma interface amigável e fácil de usar.
+  - Linguagens de script: GameMaker Language (GML).
+
 ## 🧱 Importância da Arquitetura do Motor de Jogo
 A arquitetura de um motor de jogo define como os diferentes componentes interagem, o que impacta a performance, flexibilidade e escalabilidade do jogo.
 
@@ -42,24 +65,3 @@ A arquitetura de um motor de jogo define como os diferentes componentes interage
     - Atualização do sistema de física
     - Renderização
     - Processamento de som
-### III. Exemplos de Motores de Jogos
-- Unity
-  - Um dos motores de jogo mais populares.
-  - Suporte a 2D e 3D, com uma vasta biblioteca de ativos.
-  - Linguagens de script: C#.
-- Unreal Engine
-  - Conhecido por seus gráficos de alta qualidade.
-  - Usado em jogos AAA e desenvolvimento de simulações.
-  - Linguagens de script: C++ e Blueprints (sistema visual).
-- Godot
-  - Um motor open-source que é leve e flexível.
-  - Suporta desenvolvimento 2D e 3D.
-  - Linguagens de script: GDScript, C#, VisualScript.
-- CryEngine
-  - Focado em gráficos realistas e ambientes de mundo aberto.
-  - Utilizado em jogos como "Far Cry" e "Crysis".
-  - Linguagens de script: C++ e CryScript.
-- GameMaker Studio
-  - Ideal para desenvolvimento de jogos 2D.
-  - Possui uma interface amigável e fácil de usar.
-Linguagens de script: GameMaker Language (GML).
