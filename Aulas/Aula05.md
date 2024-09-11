@@ -1,6 +1,6 @@
 # Aula 5 - Arquitetura Geral de Motores de Jogos e Exemplos de Motores
 
-## O que é um Motor de Jogo?
+## :gear: O que é um Motor de Jogo?
 Um motor de jogo é um conjunto de ferramentas e bibliotecas que facilita o desenvolvimento de jogos. Ele fornece as funcionalidades básicas para criar gráficos, física, som, entrada de usuário, e muito mais.
 ## Importância da Arquitetura do Motor de Jogo
 A arquitetura de um motor de jogo define como os diferentes componentes interagem, o que impacta a performance, flexibilidade e escalabilidade do jogo.
@@ -63,9 +63,3 @@ A arquitetura de um motor de jogo define como os diferentes componentes interage
   - Ideal para desenvolvimento de jogos 2D.
   - Possui uma interface amigável e fácil de usar.
 Linguagens de script: GameMaker Language (GML).
-IV. Conclusão
-Importância da Arquitetura: A arquitetura de um motor de jogo é crucial para a eficiência do desenvolvimento e a qualidade do jogo final.
-Escolha do Motor: A escolha do motor de jogo depende das necessidades do projeto, do tipo de jogo e da experiência da equipe de desenvolvimento.
-Discussão
-Quais motores de jogos você já usou ou gostaria de usar?
-Como você vê a evolução dos motores de jogos nos próximos anos?
