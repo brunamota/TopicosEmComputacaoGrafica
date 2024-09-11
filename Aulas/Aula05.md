@@ -3,7 +3,7 @@
 ## :gear: O que é um Motor de Jogo?
 Um motor de jogo é um conjunto de ferramentas e bibliotecas que facilita o desenvolvimento de jogos. Ele fornece as funcionalidades básicas para criar gráficos, física, som, entrada de usuário, e muito mais.
 
-### III. Exemplos de Motores de Jogos
+### Motores de Jogos
 - Unity
   - Um dos motores de jogo mais populares.
   - Suporte a 2D e 3D, com uma vasta biblioteca de ativos.
@@ -25,10 +25,21 @@ Um motor de jogo é um conjunto de ferramentas e bibliotecas que facilita o dese
   - Possui uma interface amigável e fácil de usar.
   - Linguagens de script: GameMaker Language (GML).
 
-## 🧱 Importância da Arquitetura do Motor de Jogo
+## 🧱 Arquitetura do Motor de Jogo
 A arquitetura de um motor de jogo define como os diferentes componentes interagem, o que impacta a performance, flexibilidade e escalabilidade do jogo.
 
-### I. Componentes Principais da Arquitetura de um Motor de Jogo
+- Modelo de Entidade-Componente-Sistema (ECS)
+  - Um padrão arquitetural que separa dados (componentes) e lógica (sistemas).
+  - Facilita a composição de entidades de forma flexível.
+- Fluxo de Execução
+  - O motor geralmente segue um ciclo de atualização, que inclui:
+    - Processamento de entrada
+    - Atualização da lógica do jogo
+    - Atualização do sistema de física
+    - Renderização
+    - Processamento de som
+
+### Componentes Principais da Arquitetura de um Motor de Jogo
 - Sistema de Renderização
   - Responsável por desenhar os gráficos na tela.
   - Pode usar APIs como OpenGL, DirectX, ou Vulkan.
@@ -54,14 +65,4 @@ A arquitetura de um motor de jogo define como os diferentes componentes interage
 - Gerenciamento de Cenários
   - Controla as diferentes fases ou níveis do jogo.
   - Pode incluir carregamento e descarregamento de níveis.
-### II. Arquitetura Geral
-- Modelo de Entidade-Componente-Sistema (ECS)
-  - Um padrão arquitetural que separa dados (componentes) e lógica (sistemas).
-  - Facilita a composição de entidades de forma flexível.
-- Fluxo de Execução
-  - O motor geralmente segue um ciclo de atualização, que inclui:
-    - Processamento de entrada
-    - Atualização da lógica do jogo
-    - Atualização do sistema de física
-    - Renderização
-    - Processamento de som
+
