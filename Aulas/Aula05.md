@@ -2,7 +2,7 @@
 
 ## :gear: O que é um Motor de Jogo?
 Um motor de jogo é um conjunto de ferramentas e bibliotecas que facilita o desenvolvimento de jogos. Ele fornece as funcionalidades básicas para criar gráficos, física, som, entrada de usuário, e muito mais.
-## Importância da Arquitetura do Motor de Jogo
+## 🧱 Importância da Arquitetura do Motor de Jogo
 A arquitetura de um motor de jogo define como os diferentes componentes interagem, o que impacta a performance, flexibilidade e escalabilidade do jogo.
 
 ### I. Componentes Principais da Arquitetura de um Motor de Jogo
